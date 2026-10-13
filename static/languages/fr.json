@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Où se produisent les accidents mortels de la route dans l'UE27 ?",
+  "subtitle": "En 2024, 53 % des accidents mortels de la route dans l'UE-27 se sont produits sur les routes rurales. Ce pourcentage était le plus élevé en Estonie (73 %) et le plus faible à Chypre (29 %).",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Données de la dernière année disponible, 2024.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
