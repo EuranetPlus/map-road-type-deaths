@@ -1,13 +1,11 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Dove si verificano gli incidenti stradali mortali nell'UE a 27?",
+  "subtitle": "Nel 2024, il 53% dei decessi stradali nell'UE27 si è verificato su strade rurali. La percentuale più alta si è registrata in Estonia (73%) e la più bassa a Cipro (29%).",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Dati relativi all'ultimo anno disponibile, il 2024.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
   "tooltipExtraInfoLabel": "clicca qui"
 }
