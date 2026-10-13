@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Gdzie w UE-27 dochodzi do wypadków drogowych?",
+  "subtitle": "W 2024 roku 53% ofiar śmiertelnych wypadków drogowych w UE-27 miało miejsce na drogach wiejskich. Najwyższy odsetek odnotowano w Estonii (73%), a najniższy na Cyprze (29%).",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Dane ostatnio dostępne z roku 2024.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
