@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Gdje se u EU27 događaju smrtni slučajevi u prometu?",
+  "subtitle": "U 2024. godini, 53% smrtnih slučajeva u prometu u EU27 dogodilo se na ruralnim cestama. Udio je bio najveći u Estoniji (73%), a najniži na Cipru (29%).",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Podaci iz posljednje dostupne godine, 2024.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
