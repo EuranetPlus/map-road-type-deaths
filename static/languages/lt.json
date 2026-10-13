@@ -1,13 +1,11 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kur ES 27 šalyse įvyksta eismo įvykių aukų skaičius?",
+  "subtitle": "2024 m. 53 % visų mirčių ES 27 valstybėse įvyko kaimo keliuose. Didžiausia dalis buvo Estijoje (73 %), o mažiausia – Kipre (29 %).",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Paskutiniai turimi duomenys – 2024 m.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
