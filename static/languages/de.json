@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wo ereignen sich die meisten Verkehrstoten in der EU27?",
+  "subtitle": "Im Jahr 2024 ereigneten sich 53 % der Verkehrstoten in der EU-27 auf Landstraßen. Der Anteil war in Estland am höchsten (73 %) und in Zypern am niedrigsten (29 %).",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Daten aus dem letzten verfügbaren Jahr 2024.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
